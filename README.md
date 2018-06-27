@@ -17,8 +17,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [MakerDAO Whitepaper](https://makerdao.com/whitepaper/) - "The Dai Stablecoin System" whitepaper.
 
 ## Exchanges
+Exchanges with support trading of MKR and DAI tokens.
+
+### Decentralized exchanges
 * [Oasis DEX](https://oasisdex.com/) - Fully decentralized exchange focused to Dai and MKR.
 * [Oasis.direct](https://oasis.direct/) - Simplified UI for Oasis DEX.
+* [Radar Relay](https://radarrelay.com/)
+* [Paradex](https://paradex.io/)
+
+### Other exchanges
+* [Ethfinex](https://www.ethfinex.com/)
 
 ## Tools
 * [Dai Dashboard](https://dai.makerdao.com/) - Official Dai/CDP Dashboard.
