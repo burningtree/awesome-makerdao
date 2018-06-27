@@ -31,6 +31,7 @@ Exchanges with support trading of MKR and DAI tokens.
 ## Tools
 * [Dai Dashboard](https://dai.makerdao.com/) - Official Dai/CDP Dashboard.
 * [EasyCDP](https://easycdp.com/) ([info](https://info.easycdp.com/)) - Simplified interface for CDP with lot of features (Ledger/Trezor support, Mobile friendly).
+* [AutoCDP](https://autocdp.com/) - Tool to generate CDPs and automatically re lock up Eth using Dai.
 * [CDP Simulator](https://cdp-simulator.surge.sh/) - Simple CDP calculator/simulator.
 
 ## License
