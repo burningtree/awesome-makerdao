@@ -4,32 +4,42 @@ A curated list of awesome MakerDAO resources.
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Awesome MakerDAO](#awesome-makerdao)
-  * [Community](#community)
   * [Documentation](#documentation)
+  * [Development](#development)
+  * [Community](#community)
   * [Exchanges](#exchanges)
-  * [Tools](#tools)
-    
+  * [Platform Tools](#platform-tools)
+  * [CDP Tools](#cdp-tools)
+  
+## Documentation
+* [Whitepaper](https://makerdao.com/whitepaper/) - "The Dai Stablecoin System" whitepaper.
+* [Purple Paper](https://makerdao.com/purple/) - Reference implementation of the decentralized DAI Stablecoin issuance system.
+
+## Development
+* [Developer Docs](https://developer.makerdao.com/) - Official documentation for developers (Dai, OasisDEX, Keepers, Feeds etc.).
+* [Query API](https://developer.makerdao.com/dai/1/graphql/) - GraphQL API.
+
 ## Community
-* [MakerDAO chat](https://chat.makerdao.com/) - Community chat platform [Rocket.chat].
+* [Chat](https://chat.makerdao.com/) - Community chat platform [Rocket.chat].
 * [/r/MakerDAO](https://www.reddit.com/r/MakerDAO/) - Reddit thread.
 
-## Documentation
-* [MakerDAO Whitepaper](https://makerdao.com/whitepaper/) - "The Dai Stablecoin System" whitepaper.
-
 ## Exchanges
-Exchanges with support trading of MKR and DAI tokens.
+Exchanges that support trading of MKR and DAI tokens.
 
 ### Decentralized exchanges
 * [Oasis DEX](https://oasisdex.com/) - Fully decentralized exchange focused to Dai and MKR.
 * [Oasis.direct](https://oasis.direct/) - Simplified UI for Oasis DEX.
 * [Radar Relay](https://radarrelay.com/)
-* [Paradex](https://paradex.io/)
+* [Paradex](https://paradex.io/) (acquired by Coinbase)
 
 ### Other exchanges
-* [Ethfinex](https://www.ethfinex.com/)
+* [Ethfinex](https://www.ethfinex.com/) (owned by Bitfinex)
 
-## Tools
+## Platform Tools
 * [Dai Dashboard](https://dai.makerdao.com/) - Official Dai/CDP Dashboard.
+* [MKR Tools](https://mkr.tools/) - Explorer tool for MakerDAO ecosystem (statistics, graphs etc.).
+
+## CDP Tools
 * [EasyCDP](https://easycdp.com/) ([info](https://info.easycdp.com/)) - Simplified interface for CDP with lot of features (Ledger/Trezor support, Mobile friendly).
 * [AutoCDP](https://autocdp.com/) - Tool to generate CDPs and automatically re lock up Eth using Dai.
 * [CDP Simulator](https://cdp-simulator.surge.sh/) - Simple CDP calculator/simulator.
