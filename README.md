@@ -50,9 +50,14 @@ Exchanges that support trading of MKR and DAI tokens.
 * [MKR Tools](https://mkr.tools/) - Explorer tool for MakerDAO ecosystem (statistics, graphs etc.).
 
 ## CDP Tools
+
+### Hosted
 * [EasyCDP](https://easycdp.com/) ([info](https://info.easycdp.com/)) - Simplified interface for CDP with lot of features (Ledger/Trezor support, Mobile friendly).
-* [AutoCDP](https://autocdp.com/) - Tool to generate CDPs and automatically re lock up Eth using Dai.
+* [AutoCDP](https://autocdp.com/) - Tool to generate CDPs and automatically re lock up ETH using Dai.
 * [CDP Simulator](https://cdp-simulator.surge.sh/) - Simple CDP calculator/simulator.
+
+### Self-hosted
+* [cdpnotify](https://github.com/gcarq/cdpnotify) - CDP Collateralization Notification Bot for Telegram. [Python]
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
