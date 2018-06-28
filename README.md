@@ -27,13 +27,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 Exchanges that support trading of MKR and DAI tokens.
 
 ### Decentralized exchanges
-* [Oasis DEX](https://oasisdex.com/) - Fully decentralized exchange focused to Dai and MKR.
+* [OasisDEX](https://oasisdex.com/) - Fully decentralized exchange focused to Dai and MKR.
 * [Oasis.direct](https://oasis.direct/) - Simplified UI for Oasis DEX.
 * [Radar Relay](https://radarrelay.com/)
 * [Paradex](https://paradex.io/) (acquired by Coinbase)
+* [AirSwap](https://www.airswap.io/)
+* [Bancor Network](https://www.bancor.network/communities/5a604b1f7b6b0e0001fc6ce2) (only DAI)
 
 ### Other exchanges
 * [Ethfinex](https://www.ethfinex.com/) (owned by Bitfinex)
+* [BiBox](https://www.bibox.com/)
+* [OKEx](https://www.okex.com/market?product=mkr_btc) (only MKR)
 
 ## Platform Tools
 * [Dai Dashboard](https://dai.makerdao.com/) - Official Dai/CDP Dashboard.
