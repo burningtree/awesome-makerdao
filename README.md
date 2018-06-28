@@ -32,7 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Videos
 * [What is Maker?](https://www.youtube.com/watch?v=Di5xUzvyEPM) [YouTube] - Official infographic overview video.
-* [Presentation @ Devcon3](https://www.youtube.com/watch?v=L1erp9Gkesk) [Youtube] - Presentation from Dec'2017 by Andy Milenius.
+* [Presentation @ Devcon3](https://www.youtube.com/watch?v=L1erp9Gkesk) [Youtube] - Presentation from Nov'2017 by Andy Milenius.
 * [Dai Dashboard Walkthrough](https://www.youtube.com/watch?v=7f0ZMQCpov4) [YouTube] - Walk through some basic operations of the Dai credit system.
 
 ## Exchanges
