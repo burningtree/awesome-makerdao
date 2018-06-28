@@ -25,10 +25,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Community
 * [Chat](https://chat.makerdao.com/) - Community chat platform [Rocket.chat].
 * [/r/MakerDAO](https://www.reddit.com/r/MakerDAO/) - Reddit thread.
+* [MakerDao Articles, Blog Posts and Tutorials](https://www.reddit.com/r/MakerDAO/comments/8k8h51/makerdao_articles_blog_posts_and_tutorials/) [Reddit]
 
 ## Guides
-* [Maker for Dummies](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90) - A Plain English Explanation of the Dai Stablecoin.
-* [FAQ: Liquidation @ Reddit](https://www.reddit.com/r/MakerDAO/comments/8efk5q/faq_possibly_everything_you_ever_wanted_to_know/) - Possibly everything you ever wanted to know about Liquidation.
+* [Maker for Dummies](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90) [Medium] - A Plain English Explanation of the Dai Stablecoin.
+* [Getting Started With Maker](https://www.reddit.com/r/MakerDAO/comments/8jsalu/getting_started_with_maker/) [Reddit]
+* [FAQ: Liquidation](https://www.reddit.com/r/MakerDAO/comments/8efk5q/faq_possibly_everything_you_ever_wanted_to_know/) [Reddit] - Possibly everything you ever wanted to know about Liquidation.
 
 ## Videos
 * [What is Maker?](https://www.youtube.com/watch?v=Di5xUzvyEPM) [YouTube] - Official infographic overview video.
