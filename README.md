@@ -7,6 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Documentation](#documentation)
   * [Development](#development)
   * [Community](#community)
+  * [Guides](#guides)
   * [Exchanges](#exchanges)
   * [Platform Tools](#platform-tools)
   * [CDP Tools](#cdp-tools)
@@ -17,18 +18,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Development
 * [Developer Docs](https://developer.makerdao.com/) - Official documentation for developers (Dai, OasisDEX, Keepers, Feeds etc.).
-* [Query API](https://developer.makerdao.com/dai/1/graphql/) - GraphQL API.
+* [Query API](https://developer.makerdao.com/dai/1/graphql/) - GraphQL API for querying platform data (CDP, risk parameters etc.).
+* [GitHub repository](https://github.com/makerdao)
 
 ## Community
 * [Chat](https://chat.makerdao.com/) - Community chat platform [Rocket.chat].
 * [/r/MakerDAO](https://www.reddit.com/r/MakerDAO/) - Reddit thread.
+
+## Guides
+* [Maker for Dummies](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90) - A Plain English Explanation of the Dai Stablecoin.
+* [FAQ: Liquidation @ Reddit](https://www.reddit.com/r/MakerDAO/comments/8efk5q/faq_possibly_everything_you_ever_wanted_to_know/) - Possibly everything you ever wanted to know about Liquidation.
 
 ## Exchanges
 Exchanges that support trading of MKR and DAI tokens.
 
 ### Decentralized exchanges
 * [OasisDEX](https://oasisdex.com/) - Fully decentralized exchange focused to Dai and MKR.
-* [Oasis.direct](https://oasis.direct/) - Simplified UI for Oasis DEX.
+* [OasisDirect](https://oasis.direct/) - Simplified UI for Oasis DEX.
 * [Radar Relay](https://radarrelay.com/)
 * [Paradex](https://paradex.io/) (acquired by Coinbase)
 * [AirSwap](https://www.airswap.io/)
