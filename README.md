@@ -8,6 +8,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Development](#development)
   * [Community](#community)
   * [Guides](#guides)
+  * [Videos](#videos)
   * [Exchanges](#exchanges)
   * [Platform Tools](#platform-tools)
   * [CDP Tools](#cdp-tools)
@@ -28,6 +29,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Guides
 * [Maker for Dummies](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90) - A Plain English Explanation of the Dai Stablecoin.
 * [FAQ: Liquidation @ Reddit](https://www.reddit.com/r/MakerDAO/comments/8efk5q/faq_possibly_everything_you_ever_wanted_to_know/) - Possibly everything you ever wanted to know about Liquidation.
+
+## Videos
+* [What is Maker?](https://www.youtube.com/watch?v=Di5xUzvyEPM) [YouTube] - Official infographic overview video.
+* [Presentation @ Devcon3](https://www.youtube.com/watch?v=L1erp9Gkesk) [Youtube] - Presentation from Dec'2017 by Andy Milenius.
+* [Dai Dashboard Walkthrough](https://www.youtube.com/watch?v=7f0ZMQCpov4) [YouTube] - Walk through some basic operations of the Dai credit system.
 
 ## Exchanges
 Exchanges that support trading of MKR and DAI tokens.
