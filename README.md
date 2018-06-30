@@ -67,5 +67,8 @@ Exchanges that support trading of MKR and DAI tokens.
 ### Self-hosted
 * [cdpnotify](https://github.com/gcarq/cdpnotify) - CDP Collateralization Notification Bot for Telegram. [Python]
 
+## Libraries
+* [node-dai](https://github.com/Kaisle/node-dai) - Node-wrapper for MakerDAO
+
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
